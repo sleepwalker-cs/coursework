@@ -1,4 +1,4 @@
-# crm-vm
+# Coursework
 
 ## Project setup
 ```
